@@ -20,12 +20,14 @@ In this project, I have used several text classification models from the Hugging
 4. Albert-base-v2: A lightweight version of BERT with parameter-sharing and factorized embeddings for efficiency and scalability.
 5. Xlnet-base-cased: A transformer model that uses permutation-based training to capture bidirectional context more effectively than BERT.
 
+
 **Evaluation Metrics**
 1. Accuracy
 2. Precision (Macro and Micro)
 3. Recall (Macro and Micro)
 4. F1 Score (Macro and Micro)
 5. Cohen's Kappa
+
 
 **Output:**
 | Model                     | Accuracy | Precision Weighted | Recall Weighted | F1 Weighted | Cohen Kappa |
@@ -36,13 +38,16 @@ In this project, I have used several text classification models from the Hugging
 | xlnet-base-cased          | 0.1296   | 0.0363586          | 0.1296          | 0.0431487   | 0.00489431  |
 | albert-base-v2            | 0.1204   | 0.0300729          | 0.1204          | 0.0467224   |-0.00678552  |
 
+
 **Evaluation parameters of different models**
 
 <img width="667" alt="{90582F28-4441-4FC3-A444-8C6CE032E31E}" src="https://github.com/user-attachments/assets/ca52ba2d-5221-45d6-9128-01964000f333" />
 
+
 **Bargraph showing topsis score vs models**
 
 <img width="321" alt="{D408CD7E-2ACD-4C92-A90E-6EC6412BBB4D}" src="https://github.com/user-attachments/assets/dff2704c-af98-4b69-9d6b-6dcc8b631492" />
+
 
 **Use Cases**
 1. Sentiment Analysis

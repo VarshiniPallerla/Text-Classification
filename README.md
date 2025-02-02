@@ -13,6 +13,7 @@ In this project, I have used several text classification models from the Hugging
 | 3        | i am ever feeling nostalgic about the fireplace i will know that it is still on the property                 | 3       |
 | 4        | i am feeling grouchy                                                                                         | 0       |
 
+
 **Models Used:**
 1. Bert-base-uncased: A pretrained BERT model (uncased) for natural language understanding tasks like text classification and question answering.
 2. Distilbert-base-uncased: A smaller, faster, and lighter version of BERT with 40% fewer parameters while retaining 97% of its performance.
@@ -39,14 +40,17 @@ In this project, I have used several text classification models from the Hugging
 | albert-base-v2            | 0.1204   | 0.0300729          | 0.1204          | 0.0467224   |-0.00678552  |
 
 
+
 **Evaluation parameters of different models**
 
 <img width="667" alt="{90582F28-4441-4FC3-A444-8C6CE032E31E}" src="https://github.com/user-attachments/assets/ca52ba2d-5221-45d6-9128-01964000f333" />
 
 
+
 **Bargraph showing topsis score vs models**
 
 <img width="321" alt="{D408CD7E-2ACD-4C92-A90E-6EC6412BBB4D}" src="https://github.com/user-attachments/assets/dff2704c-af98-4b69-9d6b-6dcc8b631492" />
+
 
 
 **Use Cases**
